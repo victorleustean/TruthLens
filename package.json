@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "cd truth-lens && npm run dev"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^3.33.0",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1"
+  }
+}
