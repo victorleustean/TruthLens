@@ -5,6 +5,9 @@
   "dependencies": {
     "@chakra-ui/react": "^3.33.0",
     "@emotion/react": "^11.14.0",
-    "@emotion/styled": "^11.14.1"
+    "@emotion/styled": "^11.14.1",
+    "@supabase/supabase-js": "^2.95.3",
+    "framer-motion": "^12.34.0",
+    "react-dropzone": "^15.0.0"
   }
 }
